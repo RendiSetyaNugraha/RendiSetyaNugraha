@@ -1,7 +1,7 @@
-## - Hi there 👋
-## - I'm Rendi Setya Nugraha 👋
-## - I'm currently studying Machine Learning & Data analysis 🌱
-## ---- Have Fun Guys ----
+# - Hi there 👋
+# - I'm Rendi Setya Nugraha 👋
+# - I'm currently studying Machine Learning & Data analysis 🌱
+# ---- Have Fun Guys ----
 
 <!--
 **RendiSetyaNugraha/RendiSetyaNugraha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
